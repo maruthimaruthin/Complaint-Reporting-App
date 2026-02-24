@@ -367,4 +367,4 @@ All components follow React best practices with:
 
 ---
 
-**Built with v0 - Vercel's AI-powered frontend builder**
+
